@@ -6,7 +6,7 @@ Sample request:
   *Note: 
     Invalid fbid exception on AWS testing is ok, since the user id is not valid, sending messages from facebook would solve this.
 
-Subscribe the page:(seems required everyday)
+Subscribe the page:
   curl -ik -X POST "https://graph.facebook.com/v2.6/me/subscribed_apps?access_token=$TOKEN"
 
 Update the lambda function:
