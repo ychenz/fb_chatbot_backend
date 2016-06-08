@@ -1,7 +1,7 @@
 {
-  "fb_verify_token":"blue knight",
-  "fb_page_token":"EAAYfxVfuZChcBACFS3dFQbcE9t3abGqiHw8uOgQUY0D2ZB3T6sBsXkkS3MPINNksi2XrrclVy4pJFChHA38skkhvmTaxJH3kNRdYBwJxoxO81MvZCUHkEISG0XD5VVc2lh9mO8TIn1rA6bhootXkeS1zWbDzcE3UzEZCT1AZCcAZDZD",
-  "wit_server_token":"WKPL7ETTQDKLL6QI5OE2EOFTEW2MT6ZW",
-  "openweathermap_appid":"4c23328326cf2c96dd7276fab234a100",
-  "openweathermap_url":"http://api.openweathermap.org/data/2.5/weather"
+  "fb_verify_token":"your token",
+  "fb_page_token":"your token",
+  "wit_server_token":"your token",
+  "openweathermap_appid":"your token",
+  "openweathermap_url":"your token"
  } 
