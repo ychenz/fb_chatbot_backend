@@ -1,0 +1,14 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yzhao",
+  "license": "ISC",
+  "dependencies": {
+    "node-wit": "^3.3.1"
+  }
+}
